@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CONVERTIR A PDF", "CONVERTIR A PDF.vbproj", "{A3DB6103-A56A-4FF1-B427-D03C296DBC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DB6103-A56A-4FF1-B427-D03C296DBC93}.Debug|x86.ActiveCfg = Debug|x86
+		{A3DB6103-A56A-4FF1-B427-D03C296DBC93}.Debug|x86.Build.0 = Debug|x86
+		{A3DB6103-A56A-4FF1-B427-D03C296DBC93}.Release|x86.ActiveCfg = Release|x86
+		{A3DB6103-A56A-4FF1-B427-D03C296DBC93}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0599949B-5A21-4626-8BF3-6E4A0D1B4770}
+	EndGlobalSection
+EndGlobal
