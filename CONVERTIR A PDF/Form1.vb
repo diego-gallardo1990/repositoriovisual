@@ -40,7 +40,7 @@ Public Class Form1
         End If
     End Sub
 
-    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles ButtonTODO.Click
+    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs)
         SaveFileDialog1.DefaultExt = "pdf"
         If SaveFileDialog1.ShowDialog = Windows.Forms.DialogResult.OK Then
             Try
